@@ -1,0 +1,192 @@
+  
+    AI Service Engine Privacy Notice
+  
+  Download
+  Last updated: March 5, 2024
+  Effective date: March 5, 2024
+  
+    Welcome to AI Service Engine. AI Service Engine (hereinafter referred to as the 'App') is developed and operated
+    by Guangdong OPPO Mobile Telecommunications Corp., Ltd. (hereinafter referred to as 'we', 'us', or 'our', and
+    registered at No. 18 Haibin Road, Wusha, Chang'an, Dongguan, Guangdong, China 523902). It is a built-in AI
+    service platform that uses semantic analysis of images and speech to provide users ('you') with intelligent
+    services.
+  
+  
+  
+  
+    This AI Service Engine Privacy Notice (this 'Privacy Notice') explains what personal information about you we
+    collect, store, process, transmit, provide, disclose, or delete (collectively, 'process') during your use of the
+    App, how and why we do so, how you can exercise your data subject rights, and the security measures we use to
+    protect your personal information.
+  
+  
+    
+      1. How We Collect and Use Your Personal Information
+      
+        
+          The information we collect depends on the features or services you use, the context in which you
+          interact with us, and the choices you make, including your privacy settings and the features or services
+          you use.
+        
+        
+          
+            The features or services provided by the App may vary depending on the operating system or app
+            versions running on a device, the apps installed or downloaded on a device, etc. Therefore, the
+            features or services actually provided by the App, personal information processing, and required app
+            permissions are subject to the device you use.
+          
+        
+      
+      
+        
+          If the following clauses explicitly state that relevant information about you is stored only
+          locally, then the information is collected and processed only locally on your device and will not be
+          uploaded to our servers. Such information is not bound by this Privacy Notice.
+        
+        We aim here to provide clarification on any questions you are likely to have and be transparent about
+        our processing of personal information.
+      
+      
+        
+          
+            1.1 Personal information we process in connection with basic features and the
+            purpose
+          
+        
+        
+          
+            (1) AndesGPT trial volume control
+            
+              AndesGPT trial volume control sets the maximum number of daily uses for features such as AI
+              Eraser. To control the trial volume for AndesGPT, you need to provide the App with your
+              phone brand, phone model, OS version, device type, app package names, account information,
+              and OpenID. The App will collect the information mentioned above to limit the number of uses
+              available for the current device to ensure that the server works properly.
+            
+          
+          
+            (2) AndesGPT-powered features
+            
+              AndesGPT-powered features provide features such as AI Eraser. When you use AndesGPT-powered
+              features, you need to provide the App with your phone brand, phone model, OS version, device
+              type, app package names, account information, OpenID, and country code information. The App
+              will collect the information mentioned above to provide algorithmic capabilities
+              corresponding to AndesGPT-powered features for the relevant country or region.
+            
+          
+        
+      
+    
+    
+      2. How Your Personal Data Is Transferred Globally
+      
+        
+          We provide services through our resources and servers around the world. We have data centers in France,
+          Singapore, India, and Indonesia, which means that in compliance with applicable laws, your personal data
+          might be transferred to or accessed from countries or regions outside of where you use our Services.
+        
+        
+          Please note that different countries or regions offer differing levels of data protection. This means
+          that your personal data may be stored in a country or region that provides a certain level of
+          protection, but in some cases that level of protection may be lower than the one in your country or
+          region. However, in such cases, we will take measures to ensure that the personal data we collect is
+          processed in accordance with this Privacy Statement and applicable laws, and that your personal data is
+          sufficiently safeguarded. For example, we might ask your permission to transfer your personal data
+          across borders, and we will implement adequate security measures (such as encryption and
+          de-identification where feasible) and sign the necessary data
+          transmission/sharing agreements with the recipients of your personal data prior to the transfer taking
+          place. We will also specifically ensure that we comply with laws that require us to store data locally
+          within a specific country or region.
+        
+      
+    
+    
+      3. How to Exercise Your Data Subject Rights
+      
+        
+          We respect your rights to your personal information, and we do our best to protect your rights. We
+          provide a number of secure and convenient ways for you to configure privacy settings and manage personal
+          information, thus ensuring the security of your personal information.
+          Please note that the operation paths may vary by device model, operating system version, and
+            product software version. 
+          In addition, we may adjust the operation paths from time to time to improve your user experience.
+          Therefore, the operation paths described below are for reference only. If you have any questions
+          regarding the operation paths or ways in which you can exercise your rights, you can contact us as set
+          forth under Section 5. 'Contact Us' below.
+        
+        
+          You may go to 'Settings - Additional settings - System services - AI Service Engine - Privacy - Privacy
+          Notice' to check what personal information the App may collect from you.
+        
+        
+          You may go to 'Settings - Additional settings - System services - AI Service Engine - Privacy' and tap
+          'Privacy - Withdraw consent to Privacy Notice' to withdraw your consent so as to disable the App from
+          collecting your personal information. After withdrawing your consent, you will be signed out of the App,
+          and we will stop processing your personal information in connection with the App.
+        
+      
+    
+    
+      4. How We Protect the Personal Information of Minors
+      
+        
+          The App does not target children.
+          Please note that due to technical limitations and other objective factors, the App may not be able to
+          actively identify your age.
+        
+        
+          If you are a child, you must obtain the consent of your parent or guardian before using the App, and be
+          sure to carefully read this Privacy Notice and other service terms together with them to ensure that you
+          can fully understand all the content. You should obtain their consent before using the App or its
+          related services.
+          
+            Children are not allowed to use the App or related services without the consent of their parents or
+            guardians.
+          
+        
+        
+          If you are a parent or guardian of a child, or if you otherwise find that any information we process may
+          contain the personal information of a child, you can promptly contact us as set forth under Section 5
+          'Contact Us'. We will do everything we can to delete the relevant data as soon as possible.
+        
+      
+    
+    
+      
+        5. Contact Us
+      
+      
+        
+          To learn more about how we protect personal information,
+          
+            please refer to our general Privacy Notice.
+          
+        
+        
+          If you have any questions, complaints, or suggestions regarding this Privacy Notice or our privacy
+          practices, you may contact us as set forth below. We will verify your identity and respond within 15
+          working days. This time limit might be extended when necessary due to the complexity and large amounts
+          of individual requests, as well as technical feasibility.
+        
+      
+      
+        Data Subject Rights Platform: To better protect your rights and interests, we have specifically
+        established the Data Subject Rights Platform at
+        https://www.oppo.com/en/privacy-feedback/.
+        You can sign in to the platform to contact us.
+      
+      
+      
+      
+        Guangdong OPPO Mobile Telecommunications Corp., Ltd.
+        
+        Address: No.18 Haibin Road, Wusha, Chang'an, Dongguan, Guangdong, China
+        
+        Postal code: 523902
+      
+      
+      
+    
+  
+
+
